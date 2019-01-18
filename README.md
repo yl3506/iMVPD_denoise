@@ -1,6 +1,6 @@
 # MVPD_Intersubject
 Multivariate Pattern Dependence on inter-subject model.<br />
-The project is based on previous work of MVPD ([Anzellotti S, Caramazza A, Saxe R (2017) Multivariate pattern dependence. PLoS Comput Biol 13(11): e1005799. https://doi.org/10.1371/journal.pcbi.1005799](http://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1005799))
+Paper: https://www.biorxiv.org/content/biorxiv/early/2018/10/30/456970.full.pdf
 
 ## Code Workflow
 ### Reorganize dataset to match BIDS specification
